@@ -8,8 +8,8 @@ const _geist = Geist({ subsets: ["latin"] });
 const _geistMono = Geist_Mono({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: '노코드 앱 개발 가이드 | 구글 Anvy & AI',
-  description: '구글 Anvy와 AI를 활용한 혁신적인 노코드 앱 개발 튜토리얼. 코딩 없이 아이디어를 현실로 구현하세요.',
+  title: '노코드 앱 개발 가이드 | 구글 Antigravity & AI',
+  description: '구글 Antigravity와 AI를 활용한 혁신적인 노코드 앱 개발 튜토리얼. 코딩 없이 아이디어를 현실로 구현하세요.',
   generator: 'v0.app',
   icons: {
     icon: [

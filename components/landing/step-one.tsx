@@ -66,7 +66,7 @@ const steps = [
   },
   {
     id: "106",
-    title: "구글 Anvy",
+    title: "구글 Antigravity",
     description: "디자인 및 기능 수정, 코드 편집",
     icon: Code2,
     color: "from-amber-500 to-yellow-500",

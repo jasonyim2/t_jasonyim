@@ -51,7 +51,7 @@ export function Hero() {
 
         {/* Subheadline */}
         <p className="text-lg md:text-xl lg:text-2xl text-muted-foreground max-w-2xl mx-auto mb-10 text-pretty leading-relaxed">
-          구글 Anvy와 AI가 제안하는
+          구글 Antigravity와 AI가 제안하는
           <br className="hidden sm:block" />
           새로운 앱 개발의 표준.
         </p>
